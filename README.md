@@ -6,13 +6,13 @@ Gemini 335Lg Quick Start
 ### b)	Remove the white protective film on the front glass
 ![b](picture/unbox1.png)
 ### c)	Connect the camera & the deserialization board via FAKRA-Z cable
-![c](picture/unbox2.png)
+
 ### d)	Connect the deserialization board & the AGX Orin Developer Kit;
 ***Tips: The AGX Orin JetPack version should be 6.0(r36_release_v3.0);***
-![d](picture/unbox3.png)
+
 ### e)	Power on the Developer Kit & deserialization board;
 ***Deserialization board needs 24V@2A power supply at least;***
-![e](picture/unbox4.png)
+
 ## 2.	Load Complied Driver
 ### a)	Switch to the drive file path
 **i.	Bash:  cd ./driver path**
